@@ -1,2 +1,2 @@
 # runatlantis-docker
-Atlantis docker image with extra tools
+Atlantis docker image with extra tools :D
