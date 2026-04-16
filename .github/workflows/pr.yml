@@ -3,7 +3,7 @@ name: pr
 
 env:
   REGISTRY: ghcr.io
-  ORGANIZATION: onuminc
+  ORGANIZATION: nstrlabs
   IMAGE_NAME: runatlantis-docker
 
 on:
